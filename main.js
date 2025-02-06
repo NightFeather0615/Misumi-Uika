@@ -24,7 +24,7 @@ function animate() {
 }
 
 loader.load(
-  "public/misumi_uika.glb",
+  "https://r2.nightfeather.dev/misumi_uika.glb",
   function(gltf) {
     tetrahedron = gltf.scene;
     tetrahedron.rotation.x += 3.4;
