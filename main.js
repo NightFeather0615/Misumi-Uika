@@ -24,7 +24,7 @@ function animate() {
 }
 
 loader.load(
-  "assets/misumi_uika.glb",
+  "public/misumi_uika.glb",
   function(gltf) {
     tetrahedron = gltf.scene;
     tetrahedron.rotation.x += 3.4;
