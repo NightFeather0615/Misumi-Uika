@@ -1,0 +1,10 @@
+{
+  "name": "Misumi-Uika",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
